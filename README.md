@@ -1,10 +1,13 @@
 <h1 align="center">Hola 👋, mi nombre es Jairo Vera</h1>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JairoVera01?tab=repositories](https://github.com/JairoVera01?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [GitHub - Repositorios](https://github.com/JairoVera01?tab=repositories)
 
 - 📫 Contáctame **fj.verachamorro@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/frank-jairo-vera/](https://www.linkedin.com/in/frank-jairo-vera/)
+- 📄 Conoce mis experiencias en [Linkedin](https://www.linkedin.com/in/frank-jairo-vera/)
+
+- 📷 Fotografo en [Portafolio de Fotografías](https://fjverachamorro.wixsite.com/portafolio)
+
 <hr>
   <p>- Ingeniero de sistemas en <i>Universidad Privada del Norte</i></p>
   <p>- Desarrollo Web en <i>Coder House - Argentina</i>
