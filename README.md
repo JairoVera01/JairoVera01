@@ -44,10 +44,6 @@
 ### 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairoVera01&theme=tokyonight" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoVera01&theme=aura_dark" alt="Resumen de perfil"/>
 </p>
 
