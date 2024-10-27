@@ -46,6 +46,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairoVera01&theme=tokyonight" alt="Racha de contribuciones"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoVera01&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</p>
+
 ---
 
 ### 🌐 Encuéntrame en
