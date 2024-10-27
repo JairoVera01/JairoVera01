@@ -1,5 +1,10 @@
 <h1 align="center">Hola 👋, soy Jairo Vera</h1>
 
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=¡Bienvenidos!+Soy+Jairo+Vera;Desarrollador+Web+y+Móvil;Entusiasta+de+la+tecnología" alt="Typing SVG">
+</p>
+
 <p align="center">
   <a href="https://github.com/JairoVera01?tab=repositories"><img src="https://img.shields.io/badge/-Mis%20Proyectos-000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://jairovera.dev/"><img src="https://img.shields.io/badge/-Mi%20Página%20Web-000?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
@@ -24,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" alt="Astro" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -44,6 +49,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoVera01&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=JairoVera01&theme=react-dark" alt="Gráfica de contribuciones"/>
 </p>
 
 ---
