@@ -48,11 +48,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoVera01&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JairoVera01&theme=aura_dark" alt="Resumen de perfil"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JairoVera01&theme=react-dark" alt="Gráfica de contribuciones"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JairoVera01&theme=aura_dark" alt="Repositorios por lenguaje"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JairoVera01&theme=aura_dark" alt="Lenguaje con más commits"/>
 </p>
 
 ---
