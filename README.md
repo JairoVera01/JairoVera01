@@ -11,10 +11,10 @@
 
 ### Sobre mí
 
-- 🎓 **Ingeniero de Sistemas** egresado de la *Universidad Privada del Norte*.
+- 🎓 **Bachiller en Ingeniería de Sistemas** por la *Universidad Privada del Norte* en Lima, Perú.
 - 🚀 Apasionado por el desarrollo web y las tecnologías emergentes.
 - 🌱 Actualmente profundizando en **React**, **Astro**, **Next.js** y **Tailwind CSS**.
-- 💼 Formación en **Desarrollo Web** en *Coder House - Argentina*.
+- 📚 Diversos cursos realizados en *Coderhouse*.
 
 ---
 
