@@ -1,29 +1,62 @@
-<h1 align="center">Hola 👋, mi nombre es Jairo Vera</h1>
+<h1 align="center">Hola 👋, soy Jairo Vera</h1>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [GitHub - Repositorios](https://github.com/JairoVera01?tab=repositories)
+<p align="center">
+  <a href="https://github.com/JairoVera01?tab=repositories"><img src="https://img.shields.io/badge/-Mis%20Proyectos-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://jairovera.dev/"><img src="https://img.shields.io/badge/-Mi%20Página%20Web-000?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
+  <a href="mailto:fj.verachamorro@gmail.com"><img src="https://img.shields.io/badge/-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/frank-jairo-vera/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-- 📫 Contáctame **fj.verachamorro@gmail.com**
+---
 
-- 📄 Conoce mis experiencias en [Linkedin](https://www.linkedin.com/in/frank-jairo-vera/)
+### Sobre mí
 
-- 📷 Fotografo en [Portafolio de Fotografías](https://fjverachamorro.wixsite.com/portafolio)
+- 🎓 **Ingeniero de Sistemas** egresado de la *Universidad Privada del Norte*.
+- 🚀 Apasionado por el desarrollo web y las tecnologías emergentes.
+- 🌱 Actualmente profundizando en **React**, **Astro**, **Next.js** y **Tailwind CSS**.
+- 💼 Formación en **Desarrollo Web** en *Coder House - Argentina*.
 
-<hr>
-  <p>- Ingeniero de sistemas en <i>Universidad Privada del Norte</i></p>
-  <p>- Desarrollo Web en <i>Coder House - Argentina</i>
-<hr>
+---
 
-<h3 align="left">Lenguajes y herramientas: </h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual_estudio_code" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      
+### 🛠️ Tecnologías y Herramientas
 
-  <hr>
-<div> 
-  <a href="https://www.instagram.com/jairo_vera_01/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fj.verachamorro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/frank-jairo-vera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" alt="Astro" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/>
+</p>
 
- 
-</div>
+---
+
+### 📊 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoVera01&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Jairo Vera"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairoVera01&theme=tokyonight" alt="Racha de contribuciones"/>
+</p>
+
+---
+
+### 🌐 Encuéntrame en
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/frank-jairo-vera/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:fj.verachamorro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/jairo_vera_01/?hl=es"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://jairovera.dev/"><img src="https://img.shields.io/badge/-Mi%20Página%20Web-000?style=flat-square&logo=internet-explorer&logoColor=white"></a>
+</p>
+
+---
+
+¡No dudes en contactarme para colaborar en proyectos interesantes o simplemente para conectar! 🚀
